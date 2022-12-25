@@ -1,0 +1,6 @@
+.group:hover .group-hover\:block {
+	display: block;
+}
+.Bar{
+	border-radius: 10px 40px 40px 10px;
+}
